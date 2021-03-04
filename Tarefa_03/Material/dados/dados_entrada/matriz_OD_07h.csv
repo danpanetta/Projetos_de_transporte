@@ -1,0 +1,99 @@
+Origem;ID;Viagens;;;Destino;ID;Viagens;;;;;;;Atração;Produção;;;;;Atração;;;;Produção;;;;;;;Atração;;;;Produção;;;;
+Boqueirão;7518;7;;;Boqueirão;7518;6;;;;;7518;Boqueirão;7;6;;;7518;Boqueirão;7;;7518;Boqueirão;6;;;7518;Boqueirão;7;;7518;Boqueirão;7;;7518;Boqueirão;6;;6
+Santa Cândida;7534;2;;;Santa Cândida;7534;2;;;;;7534;Santa Cândida;2;2;;;7534;Santa Cândida;2;;7534;Santa Cândida;2;;;7534;Santa Cândida;2;;7534;Santa Cândida;2;;7534;Santa Cândida;2;;2
+Novo Mundo;7550;6;;;Novo Mundo;7550;5;;;;;7550;Novo Mundo;6;5;;;7550;Novo Mundo;6;;7550;Novo Mundo;5;;;7539;#N/A;0;;7539;#N/A;0;;7539;#N/A;0;;0
+Portão;7553;9;;;Portão;7553;9;;;;;7553;Portão;9;9;;;7553;Portão;9;;7553;Portão;9;;;7542;#N/A;0;;7542;#N/A;0;;7542;#N/A;0;;0
+Sítio Cercado;7558;4;;;Sítio Cercado;7558;5;;;;;7558;Sítio Cercado;4;5;;;7558;Sítio Cercado;4;;7558;Sítio Cercado;5;;;7550;Novo Mundo;6;;7550;Novo Mundo;6;;7550;Novo Mundo;5;;5
+Centro;7991;11;;;Centro;7991;11;;;;;7991;Centro;11;11;;;7991;Centro;11;;7991;Centro;11;;;7552;#N/A;0;;7552;#N/A;0;;7552;#N/A;0;;0
+Centro Cívico;8077;3;;;São Francisco;8067;1;;;;;8067;São Francisco;#N/A;1;;;8067;São Francisco;0;;8067;São Francisco;1;;;7553;Portão;9;;7553;Portão;9;;7553;Portão;9;;9
+Alto da Glória;8085;4;;;Centro Cívico;8077;4;;;;;8077;Centro Cívico;3;4;;;8077;Centro Cívico;3;;8077;Centro Cívico;4;;;7558;Sítio Cercado;4;;7558;Sítio Cercado;4;;7558;Sítio Cercado;5;;5
+Alto da Rua XV;8094;6;;;Alto da Glória;8085;4;;;;;8085;Alto da Glória;4;4;;;8085;Alto da Glória;4;;8085;Alto da Glória;4;;;7991;Centro;11;;7991;Centro;11;;7991;Centro;11;;11
+Rebouças;8135;2;;;Alto da Rua XV;8094;10;;;;;8094;Alto da Rua XV;6;10;;;8094;Alto da Rua XV;6;;8094;Alto da Rua XV;10;;;8067;São Francisco;0;;8067;São Francisco;0;;8067;São Francisco;1;;1
+Batel;8163;14;;;Rebouças;8135;4;;;;;8135;Rebouças;2;4;;;8135;Rebouças;2;;8135;Rebouças;4;;;8077;Centro Cívico;3;;8077;Centro Cívico;3;;8077;Centro Cívico;4;;4
+Bigorrilho;8215;16;;;Batel;8163;16;;;;;8163;Batel;14;16;;;8163;Batel;14;;8163;Batel;16;;;8085;Alto da Glória;4;;8085;Alto da Glória;4;;8085;Alto da Glória;4;;4
+Mercês;8225;12;;;Bigorrilho;8215;18;;;;;8215;Bigorrilho;16;18;;;8215;Bigorrilho;16;;8215;Bigorrilho;18;;;8094;Alto da Rua XV;6;;8094;Alto da Rua XV;6;;8094;Alto da Rua XV;10;;10
+Bom Retiro;8245;2;;;Mercês;8225;12;;;;;8225;Mercês;12;12;;;8225;Mercês;12;;8225;Mercês;12;;;8135;Rebouças;2;;8135;Rebouças;2;;8135;Rebouças;4;;4
+Ahu;8252;7;;;Bom Retiro;8245;2;;;;;8245;Bom Retiro;2;2;;;8245;Bom Retiro;2;;8245;Bom Retiro;2;;;8163;Batel;14;;8163;Batel;14;;8163;Batel;16;;16
+Cabral;8279;2;;;Ahu;8252;4;;;;;8252;Ahu;7;4;;;8252;Ahu;7;;8252;Ahu;4;;;8215;Bigorrilho;16;;8215;Bigorrilho;16;;8215;Bigorrilho;18;;18
+Cristo Rei;8325;4;;;Juveve;8265;1;;;;;8265;Juveve;#N/A;1;;;8265;Juveve;0;;8265;Juveve;1;;;8225;Mercês;12;;8225;Mercês;12;;8225;Mercês;12;;12
+Hugo Lange;8329;1;;;Cabral;8279;1;;;;;8279;Cabral;2;1;;;8279;Cabral;2;;8279;Cabral;1;;;8245;Bom Retiro;2;;8245;Bom Retiro;2;;8245;Bom Retiro;2;;2
+Jardim Social;8330;2;;;Cristo Rei;8325;4;;;;;8325;Cristo Rei;4;4;;;8325;Cristo Rei;4;;8325;Cristo Rei;4;;;8252;Ahu;7;;8252;Ahu;7;;8252;Ahu;4;;4
+Xaxim;8422;5;;;Hugo Lange;8329;1;;;;;8329;Hugo Lange;1;1;;;8329;Hugo Lange;1;;8329;Hugo Lange;1;;;8265;Juveve;0;;8265;Juveve;0;;8265;Juveve;1;;1
+Alto Boqueirão;8460;4;;;Jardim Social;8330;2;;;;;8330;Jardim Social;2;2;;;8330;Jardim Social;2;;8330;Jardim Social;2;;;8279;Cabral;2;;8279;Cabral;2;;8279;Cabral;1;;1
+Cajuru;8575;7;;;Xaxim;8422;3;;;;;8422;Xaxim;5;3;;;8422;Xaxim;5;;8422;Xaxim;3;;;8304;#N/A;0;;8304;#N/A;0;;8304;#N/A;0;;0
+Capão da Imbuia;8663;2;;;Alto Boqueirão;8460;3;;;;;8460;Alto Boqueirão;4;3;;;8460;Alto Boqueirão;4;;8460;Alto Boqueirão;3;;;8325;Cristo Rei;4;;8325;Cristo Rei;4;;8325;Cristo Rei;4;;4
+Jardim das Américas;8685;1;;;Cajuru;8575;7;;;;;8575;Cajuru;7;7;;;8575;Cajuru;7;;8575;Cajuru;7;;;8326;#N/A;0;;8326;#N/A;0;;8326;#N/A;0;;0
+Guabirotuba;8700;1;;;Cajuru;8575;1;;;;;8663;Capão da Imbuia;2;2;;;8663;Capão da Imbuia;2;;8663;Capão da Imbuia;2;;;8329;Hugo Lange;1;;8329;Hugo Lange;1;;8329;Hugo Lange;1;;1
+Uberaba;8712;5;;;Capão da Imbuia;8663;2;;;;;8685;Jardim das Américas;1;2;;;8685;Jardim das Américas;1;;8685;Jardim das Américas;2;;;8330;Jardim Social;2;;8330;Jardim Social;2;;8330;Jardim Social;2;;2
+Boa Vista;8826;4;;;Jardim das Américas;8685;2;;;;;8700;Guabirotuba;1;2;;;8700;Guabirotuba;1;;8700;Guabirotuba;2;;;8404;#N/A;0;;8404;#N/A;0;;8404;#N/A;0;;0
+Bacacheri;8871;6;;;Guabirotuba;8700;2;;;;;8712;Uberaba;5;5;;;8712;Uberaba;5;;8712;Uberaba;5;;;8422;Xaxim;5;;8422;Xaxim;5;;8422;Xaxim;3;;3
+Bairro Alto;8904;5;;;Uberaba;8712;5;;;;;8826;Boa Vista;4;5;;;8826;Boa Vista;4;;8826;Boa Vista;5;;;8460;Alto Boqueirão;4;;8460;Alto Boqueirão;4;;8460;Alto Boqueirão;3;;3
+Abranches;8957;8;;;Boa Vista;8826;5;;;;;8871;Bacacheri;6;7;;;8871;Bacacheri;6;;8871;Bacacheri;7;;;8575;Cajuru;7;;8575;Cajuru;7;;8575;Cajuru;7;;7
+Cachoeira;8969;2;;;Bacacheri;8871;7;;;;;8904;Bairro Alto;5;5;;;8904;Bairro Alto;5;;8904;Bairro Alto;5;;;8663;Capão da Imbuia;2;;8663;Capão da Imbuia;2;;8663;Capão da Imbuia;2;;2
+Tarumã;9039;5;;;Bairro Alto;8904;5;;;;;8957;Abranches;8;7;;;8957;Abranches;8;;8957;Abranches;7;;;8685;Jardim das Américas;1;;8685;Jardim das Américas;1;;8685;Jardim das Américas;2;;2
+Pilarzinho;9047;4;;;Abranches;8957;7;;;;;8969;Cachoeira;2;1;;;8969;Cachoeira;2;;8969;Cachoeira;1;;;8700;Guabirotuba;1;;8700;Guabirotuba;1;;8700;Guabirotuba;2;;2
+Atuba;9085;4;;;Cachoeira;8969;1;;;;;9039;Tarumã;5;4;;;9039;Tarumã;5;;9039;Tarumã;4;;;8712;Uberaba;5;;8712;Uberaba;5;;8712;Uberaba;5;;5
+Mossungue;9106;10;;;Tarumã;9039;4;;;;;9047;Pilarzinho;4;5;;;9047;Pilarzinho;4;;9047;Pilarzinho;5;;;8826;Boa Vista;4;;8826;Boa Vista;4;;8826;Boa Vista;5;;5
+Campina do Siqueira;9152;1;;;Pilarzinho;9047;5;;;;;9085;Atuba;4;3;;;9085;Atuba;4;;9085;Atuba;3;;;8862;#N/A;0;;8862;#N/A;0;;8862;#N/A;0;;0
+Vista Alegre;9163;8;;;Atuba;9085;3;;;;;9106;Mossungue;10;9;;;9106;Mossungue;10;;9106;Mossungue;9;;;8871;Bacacheri;6;;8871;Bacacheri;6;;8871;Bacacheri;7;;7
+Santo Inácio;9195;2;;;Mossungue;9106;9;;;;;9152;Campina do Siqueira;1;1;;;9152;Campina do Siqueira;1;;9152;Campina do Siqueira;1;;;8904;Bairro Alto;5;;8904;Bairro Alto;5;;8904;Bairro Alto;5;;5
+Cascatinha;9204;2;;;Campina do Siqueira;9152;1;;;;;9163;Vista Alegre;8;7;;;9163;Vista Alegre;8;;9163;Vista Alegre;7;;;8954;#N/A;0;;8954;#N/A;0;;8954;#N/A;0;;0
+Orleans;9210;2;;;Vista Alegre;9163;7;;;;;9195;Santo Inácio;2;2;;;9195;Santo Inácio;2;;9195;Santo Inácio;2;;;8957;Abranches;8;;8957;Abranches;8;;8957;Abranches;7;;7
+São Braz;9220;5;;;Santo Inácio;9195;2;;;;;9204;Cascatinha;2;2;;;9204;Cascatinha;2;;9204;Cascatinha;2;;;8969;Cachoeira;2;;8969;Cachoeira;2;;8969;Cachoeira;1;;1
+Botiatuvinha;9249;1;;;Cascatinha;9204;2;;;;;9210;Orleans;2;2;;;9210;Orleans;2;;9210;Orleans;2;;;8979;#N/A;0;;8979;#N/A;0;;8979;#N/A;0;;0
+Santa Felicidade;9266;10;;;Orleans;9210;2;;;;;9220;São Braz;5;3;;;9220;São Braz;5;;9220;São Braz;3;;;9039;Tarumã;5;;9039;Tarumã;5;;9039;Tarumã;4;;4
+Cidade Industrial;9313;13;;;São Braz;9220;3;;;;;9249;Botiatuvinha;1;2;;;9249;Botiatuvinha;1;;9249;Botiatuvinha;2;;;9047;Pilarzinho;4;;9047;Pilarzinho;4;;9047;Pilarzinho;5;;5
+Água Verde;9452;16;;;Botiatuvinha;9249;2;;;;;9266;Santa Felicidade;10;10;;;9266;Santa Felicidade;10;;9266;Santa Felicidade;10;;;9085;Atuba;4;;9085;Atuba;4;;9085;Atuba;3;;3
+Guaíra;9530;5;;;Santa Felicidade;9266;10;;;;;9313;Cidade Industrial;13;15;;;9313;Cidade Industrial;13;;9313;Cidade Industrial;15;;;9106;Mossungue;10;;9106;Mossungue;10;;9106;Mossungue;9;;9
+Vila Izabel;9548;5;;;Cidade Industrial;9313;15;;;;;9452;Água Verde;16;18;;;9452;Água Verde;16;;9452;Água Verde;18;;;9142;#N/A;0;;9142;#N/A;0;;9142;#N/A;0;;0
+Fanny;9564;2;;;Água Verde;9452;18;;;;;9530;Guaíra;5;5;;;9530;Guaíra;5;;9530;Guaíra;5;;;9152;Campina do Siqueira;1;;9152;Campina do Siqueira;1;;9152;Campina do Siqueira;1;;1
+Lindóia;9575;1;;;Guaíra;9530;5;;;;;9548;Vila Izabel;5;5;;;9548;Vila Izabel;5;;9548;Vila Izabel;5;;;9163;Vista Alegre;8;;9163;Vista Alegre;8;;9163;Vista Alegre;7;;7
+Fazendinha;9635;5;;;Vila Izabel;9548;5;;;;;9564;Fanny;2;2;;;9564;Fanny;2;;9564;Fanny;2;;;9195;Santo Inácio;2;;9195;Santo Inácio;2;;9195;Santo Inácio;2;;2
+Santa Quitéria;9681;2;;;Fanny;9564;2;;;;;9575;Lindóia;1;1;;;9575;Lindóia;1;;9575;Lindóia;1;;;9204;Cascatinha;2;;9204;Cascatinha;2;;9204;Cascatinha;2;;2
+Campo Comprido;9687;18;;;Lindóia;9575;1;;;;;9635;Fazendinha;5;3;;;9635;Fazendinha;5;;9635;Fazendinha;3;;;9207;#N/A;0;;9207;#N/A;0;;9207;#N/A;0;;0
+Pinheirinho;9843;8;;;Fazendinha;9635;3;;;;;9681;Santa Quitéria;2;2;;;9681;Santa Quitéria;2;;9681;Santa Quitéria;2;;;9210;Orleans;2;;9210;Orleans;2;;9210;Orleans;2;;2
+Capão Raso;9912;3;;;Santa Quitéria;9681;2;;;;;9687;Campo Comprido;18;18;;;9687;Campo Comprido;18;;9687;Campo Comprido;18;;;9220;São Braz;5;;9220;São Braz;5;;9220;São Braz;3;;3
+Tatuquara;9965;2;;;Campo Comprido;9687;18;;;;;9843;Pinheirinho;8;8;;;9843;Pinheirinho;8;;9843;Pinheirinho;8;;;9249;Botiatuvinha;1;;9249;Botiatuvinha;1;;9249;Botiatuvinha;2;;2
+Umbará;10270;1;;;Pinheirinho;9843;8;;;;;9912;Capão Raso;3;3;;;9912;Capão Raso;3;;9912;Capão Raso;3;;;9265;#N/A;0;;9265;#N/A;0;;9265;#N/A;0;;0
+Almirante Tamandaré;4100400;6;;;Capão Raso;9912;3;;;;;9965;Tatuquara;2;2;;;9965;Tatuquara;2;;9965;Tatuquara;2;;;9266;Santa Felicidade;10;;9266;Santa Felicidade;10;;9266;Santa Felicidade;10;;10
+Araucária;4101804;3;;;Tatuquara;9965;2;;;;;10270;Umbará;1;1;;;10270;Umbará;1;;10270;Umbará;1;;;9307;#N/A;0;;9307;#N/A;0;;9307;#N/A;0;;0
+Campina Grande do Sul;4104006;1;;;Umbará;10270;1;;;;;4100400;ALMIRANTE TAMANDARÉ;6;6;;;4100400;ALMIRANTE TAMANDARÉ;6;;4100400;ALMIRANTE TAMANDARÉ;6;;;9312;#N/A;0;;9312;#N/A;0;;9312;#N/A;0;;0
+Campo Largo;4104204;9;;;Almirante Tamandaré;4100400;6;;;;;4101804;ARAUCÁRIA;3;3;;;4101804;ARAUCÁRIA;3;;4101804;ARAUCÁRIA;3;;;9313;Cidade Industrial;13;;9313;Cidade Industrial;13;;9313;Cidade Industrial;15;;15
+Colombo;4105805;10;;;Araucária;4101804;3;;;;;4104006;CAMPINA GRANDE DO SUL;1;1;;;4104006;CAMPINA GRANDE DO SUL;1;;4104006;CAMPINA GRANDE DO SUL;1;;;9452;Água Verde;16;;9452;Água Verde;16;;9452;Água Verde;18;;18
+Fazenda Rio Grande;4107652;2;;;Campina Grande do Sul;4104006;1;;;;;4104204;CAMPO LARGO;9;12;;;4104204;CAMPO LARGO;9;;4104204;CAMPO LARGO;12;;;9530;Guaíra;5;;9530;Guaíra;5;;9530;Guaíra;5;;5
+Lapa;4113205;1;;;Campo Largo;4104204;12;;;;;4105805;COLOMBO;10;11;;;4105805;COLOMBO;10;;4105805;COLOMBO;11;;;9548;Vila Izabel;5;;9548;Vila Izabel;5;;9548;Vila Izabel;5;;5
+Pinhais;4119152;11;;;Colombo;4105805;11;;;;;4107652;FAZENDA RIO GRANDE;2;2;;;4107652;FAZENDA RIO GRANDE;2;;4107652;FAZENDA RIO GRANDE;2;;;9564;Fanny;2;;9564;Fanny;2;;9564;Fanny;2;;2
+Piraquara;4119509;3;;;Fazenda Rio Grande;4107652;2;;;;;4113205;LAPA;1;1;;;4113205;LAPA;1;;4113205;LAPA;1;;;9575;Lindóia;1;;9575;Lindóia;1;;9575;Lindóia;1;;1
+Quatro Barras;4120804;1;;;Lapa;4113205;1;;;;;4119152;PINHAIS;11;8;;;4119152;PINHAIS;11;;4119152;PINHAIS;8;;;9635;Fazendinha;5;;9635;Fazendinha;5;;9635;Fazendinha;3;;3
+Rio Branco do Sul;4122206;3;;;Pinhais;4119152;8;;;;;4119509;PIRAQUARA;3;3;;;4119509;PIRAQUARA;3;;4119509;PIRAQUARA;3;;;9681;Santa Quitéria;2;;9681;Santa Quitéria;2;;9681;Santa Quitéria;2;;2
+São José dos Pinhais;4125506;9;;;Piraquara;4119509;3;;;;;4120804;QUATRO BARRAS;1;2;;;4120804;QUATRO BARRAS;1;;4120804;QUATRO BARRAS;2;;;9687;Campo Comprido;18;;9687;Campo Comprido;18;;9687;Campo Comprido;18;;18
+Tijucas do Sul;4127601;1;;;Quatro Barras;4120804;2;;;;;4122206;RIO BRANCO DO SUL;3;3;;;4122206;RIO BRANCO DO SUL;3;;4122206;RIO BRANCO DO SUL;3;;;9843;Pinheirinho;8;;9843;Pinheirinho;8;;9843;Pinheirinho;8;;8
+;;;;;Rio Branco do Sul;4122206;3;;;;;4125506;SÃO JOSÉ DOS PINHAIS;9;9;;;4125506;SÃO JOSÉ DOS PINHAIS;9;;4125506;SÃO JOSÉ DOS PINHAIS;9;;;9912;Capão Raso;3;;9912;Capão Raso;3;;9912;Capão Raso;3;;3
+;;;;;São José dos Pinhais;4125506;9;;;;;4127601;TIJUCAS DO SUL;1;#N/A;;;4127601;TIJUCAS DO SUL;1;;4127601;TIJUCAS DO SUL;0;;;9965;Tatuquara;2;;9965;Tatuquara;2;;9965;Tatuquara;2;;2
+;;;;;;;;;;;;;;;;;;;;;;;;;;;9999;#N/A;0;;9999;#N/A;0;;9999;#N/A;0;;0
+;;;;;;;;;;;;;;;;;;;;;;;;;;;10117;#N/A;0;;10117;#N/A;0;;10117;#N/A;0;;0
+;;;;;;;;;;;;;;;;;;;;;;;;;;;10121;#N/A;0;;10121;#N/A;0;;10121;#N/A;0;;0
+;;;;;;;;;;;;;;;;;;;;;;;;;;;10134;#N/A;0;;10134;#N/A;0;;10134;#N/A;0;;0
+;;;;;;;;;;;;;;;;;;;;;;;;;;;10270;Umbará;1;;10270;Umbará;1;;10270;Umbará;1;;1
+;;;;;;;;;;;;;;;;;;;;;;;;;;;4100400;ALMIRANTE TAMANDARÉ;6;;4100400;ALMIRANTE TAMANDARÉ;6;;4100400;ALMIRANTE TAMANDARÉ;6;;6
+;;;;;;;;;;;;;;;;;;;;;;;;;;;4101804;ARAUCÁRIA;3;;4101804;ARAUCÁRIA;3;;4101804;ARAUCÁRIA;3;;3
+;;;;;;;;;;;;;;;;;;;;;;;;;;;4102307;#N/A;0;;4102307;#N/A;0;;4102307;#N/A;0;;0
+;;;;;;;;;;;;;;;;;;;;;;;;;;;4104006;CAMPINA GRANDE DO SUL;1;;4104006;CAMPINA GRANDE DO SUL;1;;4104006;CAMPINA GRANDE DO SUL;1;;1
+;;;;;;;;;;;;;;;;;;;;;;;;;;;4104204;CAMPO LARGO;9;;4104204;CAMPO LARGO;9;;4104204;CAMPO LARGO;12;;12
+;;;;;;;;;;;;;;;;;;;;;;;;;;;4104253;#N/A;0;;4104253;#N/A;0;;4104253;#N/A;0;;0
+;;;;;;;;;;;;;;;;;;;;;;;;;;;4105805;COLOMBO;10;;4105805;COLOMBO;10;;4105805;COLOMBO;11;;11
+;;;;;;;;;;;;;;;;;;;;;;;;;;;4107652;FAZENDA RIO GRANDE;2;;4107652;FAZENDA RIO GRANDE;2;;4107652;FAZENDA RIO GRANDE;2;;2
+;;;;;;;;;;;;;;;;;;;;;;;;;;;4113205;LAPA;1;;4113205;LAPA;1;;4113205;LAPA;1;;1
+;;;;;;;;;;;;;;;;;;;;;;;;;;;4119152;PINHAIS;11;;4119152;PINHAIS;11;;4119152;PINHAIS;8;;8
+;;;;;;;;;;;;;;;;;;;;;;;;;;;4119509;PIRAQUARA;3;;4119509;PIRAQUARA;3;;4119509;PIRAQUARA;3;;3
+;;;;;;;;;;;;;;;;;;;;;;;;;;;4120804;QUATRO BARRAS;1;;4120804;QUATRO BARRAS;1;;4120804;QUATRO BARRAS;2;;2
+;;;;;;;;;;;;;;;;;;;;;;;;;;;4122206;RIO BRANCO DO SUL;3;;4122206;RIO BRANCO DO SUL;3;;4122206;RIO BRANCO DO SUL;3;;3
+;;;;;;;;;;;;;;;;;;;;;;;;;;;4125506;SÃO JOSÉ DOS PINHAIS;9;;4125506;SÃO JOSÉ DOS PINHAIS;9;;4125506;SÃO JOSÉ DOS PINHAIS;9;;9
+;;;;;;;;;;;;;;;;;;;;;;;;;;;4127601;TIJUCAS DO SUL;1;;4127601;TIJUCAS DO SUL;1;;4127601;TIJUCAS DO SUL;0;;0
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;359;;;;;;;;365;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;74;;54;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;148;;222;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;222;;276;;;;;;;

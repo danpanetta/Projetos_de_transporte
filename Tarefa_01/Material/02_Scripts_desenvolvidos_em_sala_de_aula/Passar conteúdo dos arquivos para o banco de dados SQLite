@@ -1,0 +1,58 @@
+# Script para passar os arquivos CSV para o SQLite
+
+# Configuracoes =====================================
+
+dir_arquivos_dados = "Y:\\alexandre\\ECV_UFSC\\1_Ensino\\Pos_graduacao\\PPGTG\\Disciplinas\\TGT410062\\TEMP\\Tarefa_01\\dados_0902"
+dir_resultado = "Y:\\alexandre\\ECV_UFSC\\1_Ensino\\Pos_graduacao\\PPGTG\\Disciplinas\\TGT410062\\TEMP\\Tarefa_01\\resultados"
+
+# Imports ===========================================
+
+import glob
+import sqlite3
+import time
+
+# ===================================================
+
+start_time = time.time()
+
+print( "Processando..." )
+
+con = sqlite3.connect( "%s\\banco_de_dados.sqlite" % dir_resultado )
+
+with con:
+
+    cur = con.cursor()
+    
+    cur.execute( "DROP TABLE IF EXISTS medicoes" )
+    cur.execute( "CREATE TABLE medicoes (posto integer, faixa integer, timestamp text, velocidade float, comprimento float)" )
+
+    lista_de_arquivos = glob.glob( "%s\\*.csv" % dir_arquivos_dados )
+
+    for arquivo in lista_de_arquivos:
+
+        print( arquivo )
+        
+        posto = int( arquivo.split( "." )[0].split( "_" )[-1] )
+        
+        print( posto )
+        
+        input_file = open( arquivo, "r" )
+        
+        contador = 100
+        for line in input_file.readlines():
+            
+            if contador > 100:
+                #print( line )
+            
+                partes = line.split( ";" )
+                faixa = int( partes[0] )
+                timestamp = partes[1]
+                velocidade = float( partes[2] )
+                comprimento = float( partes[3] )
+        
+                cur.execute( "INSERT INTO medicoes (posto,faixa,timestamp,velocidade,comprimento) VALUES (%d,%d,'%s',%f,%f)" % ( posto, faixa, timestamp, velocidade, comprimento ) )
+    
+            contador = contador + 1
+
+end_time = time.time()
+print( "Tempo de processamento = %s segundos" % ( end_time - start_time ) )
